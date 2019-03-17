@@ -1,0 +1,132 @@
+Test case 1:
+Enter the area of in square feet : 45
+
+Enter 
+ 1.standard material 
+ 2.high quality material 
+ Enter the no. :  1
+
+Enter 
+ 1.simple house 
+ 2.automated house 
+ Enter the no. :  1
+
+ Estimated cost for simple house with standard material is 54000.0INR
+
+
+
+
+
+
+Test case 2:
+Enter the area of in square feet : 45
+
+Enter 
+ 1.standard material 
+ 2.high quality material 
+ Enter the no. :  1
+
+Enter 
+ 1.simple house 
+ 2.automated house 
+ Enter the no. :  2
+
+ Estimated cost for automated house with standard material is 67500.0INR
+
+
+
+
+
+
+Test case 3:
+Enter the area of in square feet : 45
+
+Enter 
+ 1.standard material 
+ 2.high quality material 
+ Enter the no. :  2
+
+Enter 
+ 1.simple house 
+ 2.automated house 
+ Enter the no. :  1
+
+ Estimated cost for simple house with high quality material is 81000.0INR
+
+
+
+
+
+
+Test case 4:
+Enter the area of in square feet : 45
+
+Enter 
+ 1.standard material 
+ 2.high quality material 
+ Enter the no. :  2
+
+Enter 
+ 1.simple house 
+ 2.automated house 
+ Enter the no. :  2
+
+ Estimated cost for automated house with high quality material is 112500.0INR
+
+
+
+
+
+
+Test case 5:
+Enter the area of in square feet : 45
+
+Enter 
+ 1.standard material 
+ 2.high quality material 
+ Enter the no. :  3
+
+Enter 
+ 1.simple house 
+ 2.automated house 
+ Enter the no. :  2
+ INVALID OPTION 
+
+
+
+
+
+
+Test case 6:
+Enter the area of in square feet : 45
+
+Enter 
+ 1.standard material 
+ 2.high quality material 
+ Enter the no. :  2
+
+Enter 
+ 1.simple house 
+ 2.automated house 
+ Enter the no. :  3
+ INVALID OPTION 
+
+
+
+
+
+
+
+Test case 7:
+Enter the area of in square feet : 7
+
+Enter 
+ 1.standard material 
+ 2.high quality material 
+ Enter the no. :  7
+
+Enter 
+ 1.simple house 
+ 2.automated house 
+ Enter the no. :  7
+ INVALID OPTION 
